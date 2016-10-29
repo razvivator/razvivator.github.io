@@ -1,0 +1,45 @@
+{
+	"descriptionName":"Геометрические фигуры",
+	"soundItems":[
+		{
+			"itemName":"ТРЕУГОЛЬНИК",
+			"begin":0.5,
+			"end":1.6
+		},
+		{
+			"itemName":"КВАДРАТ",
+			"begin":2.1,
+			"end":3.0
+		},
+		{
+			"itemName":"ПРЯМОУГОЛЬНИК",
+			"begin":3.4,
+			"end":4.7
+		},
+		{
+			"itemName":"РОМБ",
+			"begin":5.2,
+			"end":5.8
+		},
+		{
+			"itemName":"КРУГ",
+			"begin":6.3,
+			"end":6.9
+		},
+		{
+			"itemName":"ОВАЛ",
+			"begin":7.4,
+			"end":8.1
+		},
+		{
+			"itemName":"ЗВЕЗДА",
+			"begin":8.6,
+			"end":9.5
+		},
+		{
+			"itemName":"СПИРАЛЬ",
+			"begin":10.0,
+			"end":10.9
+		}
+	]
+}

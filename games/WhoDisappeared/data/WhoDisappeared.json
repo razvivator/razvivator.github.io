@@ -1,0 +1,739 @@
+{
+  "gameName": "Что исчезло?",
+  "ages": [
+    {
+      "age": "3-4 года",
+      "level": 4
+    },
+    {
+      "age": "4-5 лет",
+      "level": 6
+    },
+    {
+      "age": "5-6 лет",
+      "level": 8
+    }
+  ],
+  "gameThemes": [
+    {
+      "themeName": "Моя семья",
+      "id": "family",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 135,
+          "left": 135
+        },
+        {
+          "top": 39,
+          "left": 200
+        },
+        {
+          "top": 135,
+          "left": 269
+        },
+        {
+          "top": 135,
+          "left": 30
+        },
+        {
+          "top": 38,
+          "left": 132
+        },
+        {
+          "top": 242,
+          "left": 280
+        },
+        {
+          "top": 242,
+          "left": 30
+        },
+        {
+          "top": 243,
+          "left": 140
+        }
+      ],
+      "question": "Кого не стало?",
+      "randomize": true,
+      "numberOfItems": 8
+    },
+    {
+      "themeName": "Село, огород",
+      "id": "village",
+      "pictures": [
+        "bg.jpg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 65,
+          "left": 266
+        },
+        {
+          "top": 135,
+          "left": 311
+        },
+        {
+          "top": 196,
+          "left": 89
+        },
+        {
+          "top": 195,
+          "left": 162
+        },
+        {
+          "top": 195,
+          "left": 240
+        },
+        {
+          "top": 195,
+          "left": 317
+        },
+        {
+          "top": 274,
+          "left": 220
+        },
+        {
+          "top": 278,
+          "left": 304
+        }
+      ],
+      "question": "Чего не стало?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Овощи",
+      "id": "vegetables",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 125,
+          "left": 62
+        },
+        {
+          "top": 128,
+          "left": 192
+        },
+        {
+          "top": 215,
+          "left": 37
+        },
+        {
+          "top": 204,
+          "left": 140
+        },
+        {
+          "top": 230,
+          "left": 237
+        },
+        {
+          "top": 305,
+          "left": 30
+        },
+        {
+          "top": 307,
+          "left": 152
+        },
+        {
+          "top": 310,
+          "left": 295
+        }
+      ],
+      "question": "Какой овощ исчез?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Фрукты",
+      "id": "fruits",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 5,
+          "left": 163
+        },
+        {
+          "top": 40,
+          "left": 77
+        },
+        {
+          "top": 40,
+          "left": 250
+        },
+        {
+          "top": 135,
+          "left": 147
+        },
+        {
+          "top": 135,
+          "left": 10
+        },
+        {
+          "top": 135,
+          "left": 280
+        },
+        {
+          "top": 220,
+          "left": 50
+        },
+        {
+          "top": 243,
+          "left": 240
+        }
+      ],
+      "question": "Какой фрукт исчез?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Еда. Продукты питания",
+      "id": "food",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 30,
+          "left": 126
+        },
+        {
+          "top": 102,
+          "left": 75
+        },
+        {
+          "top": 163,
+          "left": 85
+        },
+        {
+          "top": 100,
+          "left": 0
+        },
+        {
+          "top": 227,
+          "left": 140
+        },
+        {
+          "top": 165,
+          "left": 17
+        },
+        {
+          "top": 228,
+          "left": 280
+        },
+        {
+          "top": 212,
+          "left": 232
+        }
+      ],
+      "question": "Какой продукт исчез?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Ягоды",
+      "id": "berries",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 5,
+          "left": 163
+        },
+        {
+          "top": 77,
+          "left": 77
+        },
+        {
+          "top": 80,
+          "left": 250
+        },
+        {
+          "top": 165,
+          "left": 147
+        },
+        {
+          "top": 167,
+          "left": 10
+        },
+        {
+          "top": 162,
+          "left": 280
+        },
+        {
+          "top": 260,
+          "left": 73
+        },
+        {
+          "top": 243,
+          "left": 240
+        }
+      ],
+      "question": "Какая ягодка исчезла?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Дикие животные",
+      "id": "wild",
+      "pictures": [
+        "bg.jpg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 67,
+          "left": 68
+        },
+        {
+          "top": 153,
+          "left": 180
+        },
+        {
+          "top": 158,
+          "left": 301
+        },
+        {
+          "top": 121,
+          "left": 0
+        },
+        {
+          "top": 28,
+          "left": 308
+        },
+        {
+          "top": 230,
+          "left": 265
+        },
+        {
+          "top": 214,
+          "left": 109
+        },
+        {
+          "top": 286,
+          "left": 177
+        }
+      ],
+      "question": "Какого животного не стало?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Насекомые",
+      "id": "bugs",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 110,
+          "left": 10
+        },
+        {
+          "top": 20,
+          "left": 100
+        },
+        {
+          "top": 30,
+          "left": 210
+        },
+        {
+          "top": 105,
+          "left": 280
+        },
+        {
+          "top": 263,
+          "left": 30
+        },
+        {
+          "top": 190,
+          "left": 190
+        },
+        {
+          "top": 180,
+          "left": 100
+        },
+        {
+          "top": 285,
+          "left": 245
+        }
+      ],
+      "question": "Кого не стало?",
+      "randomize": "half",
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Дикие птицы",
+      "id": "wildBirds",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 18,
+          "left": 60
+        },
+        {
+          "top": 20,
+          "left": 165
+        },
+        {
+          "top": 180,
+          "left": 30
+        },
+        {
+          "top": 166,
+          "left": 125
+        },
+        {
+          "top": 153,
+          "left": 212
+        },
+        {
+          "top": 155,
+          "left": 295
+        },
+        {
+          "top": 275,
+          "left": 180
+        },
+        {
+          "top": 279,
+          "left": 270
+        }
+      ],
+      "question": "Какой птички не стало?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Обувь",
+      "id": "shoes",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 22,
+          "left": 90
+        },
+        {
+          "top": 22,
+          "left": 210
+        },
+        {
+          "top": 128,
+          "left": 54
+        },
+        {
+          "top": 128,
+          "left": 154
+        },
+        {
+          "top": 128,
+          "left": 254
+        },
+        {
+          "top": 230,
+          "left": 45
+        },
+        {
+          "top": 230,
+          "left": 145
+        },
+        {
+          "top": 230,
+          "left": 245
+        }
+      ],
+      "question": "Какой обуви не стало?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Посуда",
+      "id": "dishes",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": -4,
+          "left": 32
+        },
+        {
+          "top": -4,
+          "left": 153
+        },
+        {
+          "top": 80,
+          "left": 80
+        },
+        {
+          "top": 80,
+          "left": 200
+        },
+        {
+          "top": 80,
+          "left": 300
+        },
+        {
+          "top": 167,
+          "left": 7
+        },
+        {
+          "top": 167,
+          "left": 130
+        },
+        {
+          "top": 167,
+          "left": 244
+        }
+      ],
+      "question": "Что из посуды исчезло?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Игрушки",
+      "id": "toys",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 0,
+          "left": 0
+        },
+        {
+          "top": -10,
+          "left": 150
+        },
+        {
+          "top": 0,
+          "left": 295
+        },
+        {
+          "top": 53,
+          "left": 70
+        },
+        {
+          "top": 60,
+          "left": 220
+        },
+        {
+          "top": 130,
+          "left": 0
+        },
+        {
+          "top": 97,
+          "left": 146
+        },
+        {
+          "top": 140,
+          "left": 315
+        }
+      ],
+      "question": "Какая игрушка исчезла?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Домашние животные",
+      "id": "pets",
+      "pictures": [
+        "bg.jpg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 118,
+          "left": -10
+        },
+        {
+          "top": 208,
+          "left": 153
+        },
+        {
+          "top": 94,
+          "left": 301
+        },
+        {
+          "top": 229,
+          "left": 0
+        },
+        {
+          "top": 169,
+          "left": 310
+        },
+        {
+          "top": 248,
+          "left": 195
+        },
+        {
+          "top": 270,
+          "left": 66
+        },
+        {
+          "top": 274,
+          "left": 196
+        }
+      ],
+      "question": "Какого животного не стало?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Экзотические животные",
+      "id": "exotic",
+      "pictures": [
+        "bg.jpg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 139,
+          "left": 68
+        },
+        {
+          "top": 153,
+          "left": 153
+        },
+        {
+          "top": 158,
+          "left": 301
+        },
+        {
+          "top": 174,
+          "left": 0
+        },
+        {
+          "top": 203,
+          "left": 248
+        },
+        {
+          "top": 288,
+          "left": 295
+        },
+        {
+          "top": 236,
+          "left": 94
+        },
+        {
+          "top": 295,
+          "left": 177
+        }
+      ],
+      "question": "Какого животного не стало?",
+      "randomize": true,
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Транспорт",
+      "id": "transport",
+      "pictures": [
+        "bg.jpg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 288,
+          "left": 7
+        },
+        {
+          "top": 321,
+          "left": 109
+        },
+        {
+          "top": 287,
+          "left": 201
+        },
+        {
+          "top": 321,
+          "left": 295
+        },
+        {
+          "top": 38,
+          "left": 11
+        },
+        {
+          "top": 0,
+          "left": 230
+        },
+        {
+          "top": 88,
+          "left": 292
+        },
+        {
+          "top": 110,
+          "left": 116
+        }
+      ],
+      "question": "Чего не стало?",
+      "randomize": "half",
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Морские жители",
+      "id": "sea",
+      "pictures": [
+        "bg.svg",
+        "items.png"
+      ],
+      "itemsCoords": [
+        {
+          "top": 31,
+          "left": 28
+        },
+        {
+          "top": 20,
+          "left": 152
+        },
+        {
+          "top": 20,
+          "left": 272
+        },
+        {
+          "top": 126,
+          "left": 48
+        },
+        {
+          "top": 146,
+          "left": 171
+        },
+        {
+          "top": 155,
+          "left": 295
+        },
+        {
+          "top": 220,
+          "left": 94
+        },
+        {
+          "top": 252,
+          "left": 232
+        }
+      ],
+      "question": "Какого морского жителя не стало?",
+      "randomize": true,
+      "numberOfItems": 12
+    }
+  ]
+}

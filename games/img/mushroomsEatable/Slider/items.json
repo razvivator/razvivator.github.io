@@ -1,0 +1,55 @@
+{
+	"descriptionName":"Съедобные грибы",
+	"soundItems":[
+		{
+			"itemName":"БОРОВИК",
+			"begin":0.5,
+			"end":1.4
+		},
+		{
+			"itemName":"БЕЛЫЙ ТРЮФЕЛЬ",
+			"begin":1.9,
+			"end":3.1
+		},
+		{
+			"itemName":"ВЕШЕНКИ",
+			"begin":3.6,
+			"end":4.7
+		},
+		{
+			"itemName":"ЛИСИЧКИ",
+			"begin":5.2,
+			"end":6.2
+		},
+		{
+			"itemName":"МАСЛЁНОК",
+			"begin":6.7,
+			"end":7.8
+		},
+		{
+			"itemName":"ОПЯТА",
+			"begin":8.3,
+			"end":9.2
+		},
+		{
+			"itemName":"ПОДБЕРЁЗОВИК",
+			"begin":9.7,
+			"end":10.8
+		},
+		{
+			"itemName":"ПОДОСИНОВИК",
+			"begin":11.3,
+			"end":12.4
+		},
+		{
+			"itemName":"СЫРОЕЖКА",
+			"begin":12.9,
+			"end":14.1
+		},
+		{
+			"itemName":"ШАМПИНЬОНЫ",
+			"begin":14.6,
+			"end":15.7
+		}
+	]
+}

@@ -1,0 +1,187 @@
+{
+  "gameName": "Пазл",
+  "ages": [
+    {
+      "age": "3-4 года",
+      "level": 3
+    },
+    {
+      "age": "4-5 лет",
+      "level": 4
+    },
+    {
+      "age": "5-6 лет",
+      "level": 5
+    }
+  ],
+  "gameThemes": [
+    {
+      "themeName": "Моя семья",
+      "id": "family",
+      "pictures": [
+        "items.jpg"
+      ]
+    },
+    {
+      "themeName": "Село, огород",
+      "id": "village",
+      "pictures": [
+        "items.jpg"
+      ]
+    },
+    {
+      "themeName": "Овощи",
+      "id": "vegetables",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Фрукты",
+      "id": "fruits",
+      "pictures": [
+        "items.jpg"
+      ]
+    },
+    {
+      "themeName": "Еда. Продукты питания",
+      "id": "food",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Деревья",
+      "id": "trees",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Цветы",
+      "id": "flowers",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Дикие животные",
+      "id": "wild",
+      "pictures": [
+        "items.jpg"
+      ]
+    },
+    {
+      "themeName": "Насекомые",
+      "id": "bugs",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Пресмыкающиеся",
+      "id": "reptiles",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Земноводные",
+      "id": "amphibia",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Дикие птицы",
+      "id": "wildBirds",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Времена года",
+      "id": "seasons",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Зимние праздники",
+      "id": "holidays",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Игрушки",
+      "id": "toys",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Одежда, украшения",
+      "id": "clothes",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Цвета",
+      "id": "colors",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Посуда",
+      "id": "dishes",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Мебель",
+      "id": "furniture",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Домашние животные",
+      "id": "pets",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Экзотические животные",
+      "id": "exotic",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Профессии",
+      "id": "professions",
+      "pictures": [
+        "items.svg"
+      ]
+    },
+    {
+      "themeName": "Транспорт",
+      "id": "transport",
+      "pictures": [
+        "items.jpg"
+      ]
+    },
+    {
+      "themeName": "Рыбы",
+      "id": "fishes",
+      "pictures": [
+        "items.jpg"
+      ]
+    }
+  ]
+}

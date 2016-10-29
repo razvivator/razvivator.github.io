@@ -1,0 +1,44 @@
+<sounds></sounds>
+
+<div style="text-align: center">
+
+    <div class="count-how-much-digits-container">
+        <div class="count-how-much-digit"
+             ng-repeat="digit in [1,2,3,4,5]">{{digit}}</div>
+    </div>
+
+    <div class="count-how-much-game-container">
+
+        <div class="count-how-much-answers-container">
+            <div ng-repeat="position in cm.answerPicsRandPositions | limitTo : cm.level/2">
+                <div class="count-how-much-pic-to-count"
+                     style="background-image: {{cm.picture}};
+                            background-position: {{position}}"></div>
+                <div class="count-how-much-equal">=</div>
+                <div class="count-how-much-question">?</div>
+            </div>
+        </div>
+
+        <div class="count-how-much-bg-container"
+             style="background-image: {{cm.bg}}">
+            <div class="count-how-much-img-container"
+                 style="background-image: {{cm.picture}};
+                        background-position: {{position}};
+                        left:{{cm.randItems.left[$index]}};
+                        top:{{cm.randItems.top[$index]}}"
+                 ng-repeat="position in cm.randItems.positions track by $index"></div>
+        </div>
+
+        <div class="count-how-much-answers-container">
+            <div ng-repeat="position in cm.answerPicsRandPositions | limitTo : cm.level/2 : cm.level/2">
+                <div class="count-how-much-pic-to-count"
+                     style="background-image: {{cm.picture}};
+                            background-position: {{position}}"></div>
+                <div class="count-how-much-equal">=</div>
+                <div class="count-how-much-question">?</div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

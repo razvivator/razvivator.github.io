@@ -1,0 +1,161 @@
+{
+  "gameName": "Что где растет?",
+  "ages": [
+    {
+      "age": "3-4 года",
+      "level": 4
+    },
+    {
+      "age": "4-5 лет",
+      "level": 6
+    },
+    {
+      "age": "5-6 лет",
+      "level": 8
+    }
+  ],
+  "gameThemes": [
+    {
+      "themeName": "Фрукты и Овощи",
+      "id": "fruitsAndVegetables",
+      "pictures":["bg.svg", "items.png"],
+      "coords": [
+        {
+          "top": 0,
+          "left": 175
+        },
+        {
+          "top": 40,
+          "left": 70
+        },
+        {
+          "top": 40,
+          "left": 243
+        },
+        {
+          "top": 144,
+          "left": 146
+        },
+        {
+          "top": 144,
+          "left": 0
+        },
+        {
+          "top": 144,
+          "left": 282
+        },
+        {
+          "top": 250,
+          "left": 59
+        },
+        {
+          "top": 250,
+          "left": 243
+        },
+        {
+          "top": 134,
+          "left": 198
+        },
+        {
+          "top": 142,
+          "left": 67
+        },
+        {
+          "top": 217,
+          "left": 37
+        },
+        {
+          "top": 211,
+          "left": 138
+        },
+        {
+          "top": 220,
+          "left": 247
+        },
+        {
+          "top": 296,
+          "left": 32
+        },
+        {
+          "top": 296,
+          "left": 154
+        },
+        {
+          "top": 296,
+          "left": 300
+        }
+      ]
+    },
+    {
+      "themeName": "Ягоды и цветы",
+      "id": "berriesAndFlowers",
+      "pictures":["bg.svg", "items.png"],
+      "coords": [
+        {
+          "top": 23,
+          "left": 137
+        },
+        {
+          "top": 87,
+          "left": 31
+        },
+        {
+          "top": 78,
+          "left": 222
+        },
+        {
+          "top": 175,
+          "left": 0
+        },
+        {
+          "top": 144,
+          "left": 146
+        },
+        {
+          "top": 170,
+          "left": 282
+        },
+        {
+          "top": 250,
+          "left": 59
+        },
+        {
+          "top": 250,
+          "left": 243
+        },
+        {
+          "top": 270,
+          "left": 190
+        },
+        {
+          "top": 136,
+          "left": 210
+        },
+        {
+          "top": 281,
+          "left": 83
+        },
+        {
+          "top": 220,
+          "left": 304
+        },
+        {
+          "top": 195,
+          "left": 95
+        },
+        {
+          "top": 350,
+          "left": 12
+        },
+        {
+          "top": 350,
+          "left": 154
+        },
+        {
+          "top": 350,
+          "left": 300
+        }
+      ]
+    }
+  ]
+}

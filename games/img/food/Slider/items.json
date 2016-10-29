@@ -1,0 +1,45 @@
+{
+	"descriptionName":"Еда, продукты питания",
+	"soundItems":[
+		{
+			"itemName":"НАРЕЗКА",
+			"begin":0.469,
+			"end":1.731
+		},
+		{
+			"itemName":"СЫР",
+			"begin":2.218,
+			"end":3.084
+		},
+		{
+			"itemName":"ПИРОЖНОЕ",
+			"begin":3.517,
+			"end":4.672
+		},
+		{
+			"itemName":"МАНТЫ",
+			"begin":5.141,
+			"end":6.171
+		},
+		{
+			"itemName":"ПИЦЦА",
+			"begin":6.656,
+			"end":7.504
+		},
+		{
+			"itemName":"БЛИНЫ",
+			"begin":8.009,
+			"end":9.037
+		},
+		{
+			"itemName":"КУРИЦА",
+			"begin":9.524,
+			"end":10.379
+		},
+		{
+			"itemName":"САЛАТ",
+			"begin":10.841,
+			"end":11.800
+		}
+	]
+}

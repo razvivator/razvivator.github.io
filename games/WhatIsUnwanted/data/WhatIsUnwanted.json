@@ -1,0 +1,75 @@
+{
+  "gameName": "Что лишнее?",
+  "ages": [
+    {
+      "age": "3-4 года",
+      "level": 3
+    },
+    {
+      "age": "4-5 лет",
+      "level": 4
+    },
+    {
+      "age": "5-6 лет",
+      "level": 5
+    }
+  ],
+  "gameThemes": [
+    {
+      "themeName": "Фрукты и Овощи",
+      "id": "fruitsAndVegetables",
+      "pictures": [
+        "items.png"
+      ],
+      "numberOfItems": 12
+    },
+    {
+      "themeName": "Съедобное и несъедобное",
+      "id": "eatableAndUneateble",
+      "pictures": [
+        "items.png"
+      ],
+      "numberOfItems": 8
+    },
+    {
+      "themeName": "Дикие и экзотические животные",
+      "id": "wildAndExotic",
+      "pictures": [
+        "items.png"
+      ],
+      "numberOfItems": 8
+    },
+    {
+      "themeName": "Птицы дикие и домашние",
+      "id": "birdsWildAndDomestic",
+      "pictures": [
+        "items.png"
+      ],
+      "numberOfItems": 8
+    },
+    {
+      "themeName": "Транспорт",
+      "id": "transport",
+      "pictures": [
+        "items.png"
+      ],
+      "numberOfItems": 7
+    },
+    {
+      "themeName": "Одежда и обувь",
+      "id": "shoesAndClothes",
+      "pictures": [
+        "items.png"
+      ],
+      "numberOfItems": 8
+    },
+    {
+      "themeName": "Земноводные и пресмыкающиеся",
+      "id": "amphibiaAndReptiles",
+      "pictures": [
+        "items.png"
+      ],
+      "numberOfItems": 8
+    }
+  ]
+}

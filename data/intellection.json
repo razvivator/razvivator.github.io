@@ -1,0 +1,30 @@
+[
+  {
+    "name":"Что лишнее?",
+    "id":"WhatIsUnwanted"
+  },
+  {
+    "name":"Пазл",
+    "id":"ClickPuzzle"
+  },
+  {
+    "name":"Что где растет?",
+    "id":"WhereItGrows"
+  },
+  {
+    "name":"Найди соответствие",
+    "id":"FindAccordance"
+  },
+  {
+    "name":"Что забыли?",
+    "id":"WhatIsForgot"
+  },
+  {
+    "name":"Что раньше, что потом?",
+    "id":"SortPictures"
+  },
+  {
+    "name":"Чей звук?",
+    "id":"WhoseSound"
+  }
+]

@@ -1,0 +1,11 @@
+<div class="container-fluid" id="about">
+    <div ng-repeat="item in about.data.chapters">
+        <h2>{{item.header}}</h2>
+        <p>{{item.paragraph}}</p>
+    </div>
+    <ul>
+        <li ng-repeat="item in about.data.sites">
+            <a href="{{item.href}}" target="_blank">{{item.name}}</a>
+        </li>
+    </ul>
+</div>

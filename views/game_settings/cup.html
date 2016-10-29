@@ -1,0 +1,9 @@
+<div style="text-align: center;
+            cursor: pointer;"
+     ng-click="game.startGame()">
+    <img src="/games/img/winner/cup.svg" ng-show="winnerCup">
+    <img src="/games/img/winner/fail.png" ng-show="!winnerCup">
+    <h1 style="text-align: center;
+               color: #FDC30B;
+               font-size: 7em;">{{winnerText}}</h1>
+</div>

@@ -1,0 +1,56 @@
+{
+  "gameName": "Что забыли?",
+  "ages": false,
+  "gameThemes": [
+    {
+      "themeName": "Дикие птицы",
+      "id": "wildBirds",
+      "pictures": [
+        "bg.svg",
+        "items.svg",
+        "itemsToChoose.svg"
+      ],
+      "numberOfItems": 5
+    },
+    {
+      "themeName": "Зимние праздники",
+      "id": "holidays",
+      "pictures": [
+        "bg.svg",
+        "items.svg",
+        "itemsToChoose.svg"
+      ],
+      "numberOfItems": 8
+    },
+    {
+      "themeName": "Цвета",
+      "id": "colors",
+      "pictures": [
+        "bg.svg",
+        "items.svg",
+        "itemsToChoose.svg"
+      ],
+      "numberOfItems": 7
+    },
+    {
+      "themeName": "Мебель",
+      "id": "furniture",
+      "pictures": [
+        "bg.svg",
+        "items.svg",
+        "itemsToChoose.svg"
+      ],
+      "numberOfItems": 4
+    },
+    {
+      "themeName": "Транспорт",
+      "id": "transport",
+      "pictures": [
+        "bg.svg",
+        "items.svg",
+        "itemsToChoose.svg"
+      ],
+      "numberOfItems": 6
+    }
+  ]
+}

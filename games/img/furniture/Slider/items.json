@@ -1,0 +1,45 @@
+{
+	"descriptionName":"Мебель",
+	"soundItems":[
+		{
+			"itemName":"СТОЛ СО СТУЛЬЯМИ",
+			"begin":0.5,
+			"end":2.1
+		},
+		{
+			"itemName":"ТАБУРЕТ",
+			"begin":2.5,
+			"end":3.4
+		},
+		{
+			"itemName":"ОФИСНЫЙ СТУЛ",
+			"begin":3.8,
+			"end":5.2
+		},
+		{
+			"itemName":"КРЕСЛО",
+			"begin":5.7,
+			"end":6.5
+		},
+		{
+			"itemName":"КРЕСЛО-КАЧАЛКА",
+			"begin":7.0,
+			"end":8.4
+		},
+		{
+			"itemName":"КОМОД",
+			"begin":8.9,
+			"end":9.7
+		},
+		{
+			"itemName":"ДИВАН",
+			"begin":10.2,
+			"end":11.1
+		},
+		{
+			"itemName":"КРОВАТЬ",
+			"begin":11.5,
+			"end":12.4
+		}
+	]
+}

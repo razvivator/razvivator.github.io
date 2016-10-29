@@ -1,0 +1,29 @@
+<sounds></sounds>
+
+<progressbar ng-show="progBar.show" ng-init="progBar.showOnLoad()"></progressbar>
+
+<div style="text-align: center" ng-if="!wa.finished">
+
+    <div class="who-disappeared-game-container"
+         style="background-image: {{wa.bg}}">
+        <div class="who-disappeared-single-img animate-show"
+             ng-repeat="item in wa.itemsCoords | limitTo : ageSettings.level"
+             ng-show="wa.showItemsArr[$index]"
+             style="background-image: {{wa.items}};
+                    background-position: {{wa.itemsPositions[$index]}};
+                    top: {{item.top}};
+                    left: {{item.left}};"></div>
+    </div>
+
+    <div class="who-disappeared-task-container animate-show" ng-if="wa.showItemsToCheck">
+        <h2>{{themeSettings.question}}</h2>
+        <div class="who-disappeared-pic-to-check"
+             ng-repeat="item in wa.itemsToCheck track by $index"
+             ng-click="wa.checkAnswer($event)"
+             style="background-image: {{wa.items}};
+                    background-position: {{-$index*100 + 'px' + ' 0px'}};"></div>
+    </div>
+
+</div>
+
+<cup ng-if="wa.finished"></cup>

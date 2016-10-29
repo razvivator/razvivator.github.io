@@ -1,0 +1,591 @@
+{
+  "gameName": "Найди 5 отличий",
+  "ages": false,
+  "gameThemes": [
+    {
+      "themeName": "Моя семья",
+      "id": "family",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 24,
+          "imgLeft": 36,
+          "imgWidth": 89,
+          "imgHeight": 52
+        },
+        {
+          "imgTop": 146,
+          "imgLeft": 147,
+          "imgWidth": 28,
+          "imgHeight": 18
+        },
+        {
+          "imgTop": 220,
+          "imgLeft": 220,
+          "imgWidth": 39,
+          "imgHeight": 31
+        },
+        {
+          "imgTop": 279,
+          "imgLeft": 162,
+          "imgWidth": 75,
+          "imgHeight": 31
+        },
+        {
+          "imgTop": 320,
+          "imgLeft": 80,
+          "imgWidth": 242,
+          "imgHeight": 19
+        }
+      ]
+    },
+    {
+      "themeName": "Село, огород",
+      "id": "village",
+      "pictures": [
+        "items.jpg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 207,
+          "imgLeft": 36,
+          "imgWidth": 21,
+          "imgHeight": 17
+        },
+        {
+          "imgTop": 136,
+          "imgLeft": 223,
+          "imgWidth": 44,
+          "imgHeight": 81
+        },
+        {
+          "imgTop": 199,
+          "imgLeft": 359,
+          "imgWidth": 37,
+          "imgHeight": 33
+        },
+        {
+          "imgTop": 216,
+          "imgLeft": 156,
+          "imgWidth": 31,
+          "imgHeight": 29
+        },
+        {
+          "imgTop": 311,
+          "imgLeft": 143,
+          "imgWidth": 60,
+          "imgHeight": 19
+        }
+      ]
+    },
+    {
+      "themeName": "Овощи",
+      "id": "vegetables",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 193,
+          "imgLeft": 40,
+          "imgWidth": 79,
+          "imgHeight": 81
+        },
+        {
+          "imgTop": 189,
+          "imgLeft": 287,
+          "imgWidth": 40,
+          "imgHeight": 35
+        },
+        {
+          "imgTop": 269,
+          "imgLeft": 192,
+          "imgWidth": 50,
+          "imgHeight": 29
+        },
+        {
+          "imgTop": 103,
+          "imgLeft": 138,
+          "imgWidth": 33,
+          "imgHeight": 23
+        },
+        {
+          "imgTop": 194,
+          "imgLeft": 184,
+          "imgWidth": 27,
+          "imgHeight": 35
+        }
+      ]
+    },
+    {
+      "themeName": "Еда. Продукты питания",
+      "id": "food",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 33,
+          "imgLeft": 135,
+          "imgWidth": 33,
+          "imgHeight": 34
+        },
+        {
+          "imgTop": 182,
+          "imgLeft": 284,
+          "imgWidth": 87,
+          "imgHeight": 87
+        },
+        {
+          "imgTop": 289,
+          "imgLeft": 279,
+          "imgWidth": 27,
+          "imgHeight": 27
+        },
+        {
+          "imgTop": 162,
+          "imgLeft": 131,
+          "imgWidth": 146,
+          "imgHeight": 124
+        },
+        {
+          "imgTop": 319,
+          "imgLeft": 190,
+          "imgWidth": 41,
+          "imgHeight": 35
+        }
+      ]
+    },
+    {
+      "themeName": "Дикие животные",
+      "id": "wild",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 106,
+          "imgLeft": 192,
+          "imgWidth": 61,
+          "imgHeight": 35
+        },
+        {
+          "imgTop": 170,
+          "imgLeft": 204,
+          "imgWidth": 15,
+          "imgHeight": 9
+        },
+        {
+          "imgTop": 160,
+          "imgLeft": 79,
+          "imgWidth": 76,
+          "imgHeight": 42
+        },
+        {
+          "imgTop": 32,
+          "imgLeft": 186,
+          "imgWidth": 17,
+          "imgHeight": 17
+        },
+        {
+          "imgTop": 232,
+          "imgLeft": 275,
+          "imgWidth": 25,
+          "imgHeight": 59
+        }
+      ]
+    },
+    {
+      "themeName": "Земноводные",
+      "id": "amphibia",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 101,
+          "imgLeft": 180,
+          "imgWidth": 59,
+          "imgHeight": 28
+        },
+        {
+          "imgTop": 206,
+          "imgLeft": 189,
+          "imgWidth": 21,
+          "imgHeight": 12
+        },
+        {
+          "imgTop": 150,
+          "imgLeft": 68,
+          "imgWidth": 31,
+          "imgHeight": 31
+        },
+        {
+          "imgTop": 24,
+          "imgLeft": 170,
+          "imgWidth": 102,
+          "imgHeight": 30
+        },
+        {
+          "imgTop": 136,
+          "imgLeft": 182,
+          "imgWidth": 54,
+          "imgHeight": 23
+        }
+      ]
+    },
+    {
+      "themeName": "Зимние праздники",
+      "id": "holidays",
+      "pictures": [
+        "items.jpg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 45,
+          "imgLeft": 44,
+          "imgWidth": 65,
+          "imgHeight": 82
+        },
+        {
+          "imgTop": 19,
+          "imgLeft": 246,
+          "imgWidth": 35,
+          "imgHeight": 20
+        },
+        {
+          "imgTop": 94,
+          "imgLeft": 284,
+          "imgWidth": 17,
+          "imgHeight": 82
+        },
+        {
+          "imgTop": 349,
+          "imgLeft": 130,
+          "imgWidth": 20,
+          "imgHeight": 20
+        },
+        {
+          "imgTop": 267,
+          "imgLeft": 290,
+          "imgWidth": 84,
+          "imgHeight": 100
+        }
+      ]
+    },
+    {
+      "themeName": "Посуда",
+      "id": "dishes",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 165,
+          "imgLeft": 232,
+          "imgWidth": 27,
+          "imgHeight": 32
+        },
+        {
+          "imgTop": 180,
+          "imgLeft": 90,
+          "imgWidth": 80,
+          "imgHeight": 40
+        },
+        {
+          "imgTop": 191,
+          "imgLeft": 209,
+          "imgWidth": 11,
+          "imgHeight": 14
+        },
+        {
+          "imgTop": 212,
+          "imgLeft": 303,
+          "imgWidth": 8,
+          "imgHeight": 8
+        },
+        {
+          "imgTop": 210,
+          "imgLeft": 332,
+          "imgWidth": 19,
+          "imgHeight": 15
+        }
+      ]
+    },
+    {
+      "themeName": "Мебель",
+      "id": "furniture",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 32,
+          "imgLeft": 203,
+          "imgWidth": 34,
+          "imgHeight": 20
+        },
+        {
+          "imgTop": 216,
+          "imgLeft": 95,
+          "imgWidth": 35,
+          "imgHeight": 20
+        },
+        {
+          "imgTop": 195,
+          "imgLeft": 327,
+          "imgWidth": 17,
+          "imgHeight": 44
+        },
+        {
+          "imgTop": 285,
+          "imgLeft": 142,
+          "imgWidth": 47,
+          "imgHeight": 16
+        },
+        {
+          "imgTop": 310,
+          "imgLeft": 284,
+          "imgWidth": 41,
+          "imgHeight": 41
+        }
+      ]
+    },
+    {
+      "themeName": "Домашние животные",
+      "id": "pets",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 146,
+          "imgLeft": 150,
+          "imgWidth": 13,
+          "imgHeight": 13
+        },
+        {
+          "imgTop": 139,
+          "imgLeft": 234,
+          "imgWidth": 25,
+          "imgHeight": 29
+        },
+        {
+          "imgTop": 146,
+          "imgLeft": 64,
+          "imgWidth": 54,
+          "imgHeight": 12
+        },
+        {
+          "imgTop": 231,
+          "imgLeft": 58,
+          "imgWidth": 17,
+          "imgHeight": 65
+        },
+        {
+          "imgTop": 324,
+          "imgLeft": 86,
+          "imgWidth": 81,
+          "imgHeight": 49
+        }
+      ]
+    },
+    {
+      "themeName": "Экзотические животные",
+      "id": "exotic",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 116,
+          "imgLeft": 280,
+          "imgWidth": 12,
+          "imgHeight": 20
+        },
+        {
+          "imgTop": 165,
+          "imgLeft": 151,
+          "imgWidth": 42,
+          "imgHeight": 15
+        },
+        {
+          "imgTop": 278,
+          "imgLeft": 382,
+          "imgWidth": 17,
+          "imgHeight": 39
+        },
+        {
+          "imgTop": 343,
+          "imgLeft": 224,
+          "imgWidth": 17,
+          "imgHeight": 23
+        },
+        {
+          "imgTop": 331,
+          "imgLeft": 144,
+          "imgWidth": 32,
+          "imgHeight": 29
+        }
+      ]
+    },
+    {
+      "themeName": "Игрушки",
+      "id": "toys",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 127,
+          "imgLeft": 183,
+          "imgWidth": 16,
+          "imgHeight": 26
+        },
+        {
+          "imgTop": 161,
+          "imgLeft": 124,
+          "imgWidth": 34,
+          "imgHeight": 21
+        },
+        {
+          "imgTop": 185,
+          "imgLeft": 212,
+          "imgWidth": 12,
+          "imgHeight": 22
+        },
+        {
+          "imgTop": 160,
+          "imgLeft": 283,
+          "imgWidth": 38,
+          "imgHeight": 42
+        },
+        {
+          "imgTop": 311,
+          "imgLeft": 126,
+          "imgWidth": 19,
+          "imgHeight": 15
+        }
+      ]
+    },
+    {
+      "themeName": "Профессии",
+      "id": "professions",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 138,
+          "imgLeft": 194,
+          "imgWidth": 12,
+          "imgHeight": 13
+        },
+        {
+          "imgTop": 134,
+          "imgLeft": 44,
+          "imgWidth": 103,
+          "imgHeight": 70
+        },
+        {
+          "imgTop": 180,
+          "imgLeft": 175,
+          "imgWidth": 23,
+          "imgHeight": 24
+        },
+        {
+          "imgTop": 186,
+          "imgLeft": 262,
+          "imgWidth": 10,
+          "imgHeight": 19
+        },
+        {
+          "imgTop": 95,
+          "imgLeft": 259,
+          "imgWidth": 44,
+          "imgHeight": 56
+        }
+      ]
+    },
+    {
+      "themeName": "Транспорт",
+      "id": "transport",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 38,
+          "imgLeft": 218,
+          "imgWidth": 27,
+          "imgHeight": 25
+        },
+        {
+          "imgTop": 88,
+          "imgLeft": 104,
+          "imgWidth": 13,
+          "imgHeight": 7
+        },
+        {
+          "imgTop": 218,
+          "imgLeft": 111,
+          "imgWidth": 26,
+          "imgHeight": 23
+        },
+        {
+          "imgTop": 189,
+          "imgLeft": 270,
+          "imgWidth": 35,
+          "imgHeight": 42
+        },
+        {
+          "imgTop": 295,
+          "imgLeft": 306,
+          "imgWidth": 19,
+          "imgHeight": 21
+        }
+      ]
+    },
+    {
+      "themeName": "Морские жители",
+      "id": "sea",
+      "pictures": [
+        "items.svg"
+      ],
+      "diffs": [
+        {
+          "imgTop": 80,
+          "imgLeft": 298,
+          "imgWidth": 24,
+          "imgHeight": 13
+        },
+        {
+          "imgTop": 153,
+          "imgLeft": 77,
+          "imgWidth": 45,
+          "imgHeight": 44
+        },
+        {
+          "imgTop": 235,
+          "imgLeft": 104,
+          "imgWidth": 68,
+          "imgHeight": 62
+        },
+        {
+          "imgTop": 248,
+          "imgLeft": 294,
+          "imgWidth": 53,
+          "imgHeight": 21
+        },
+        {
+          "imgTop": 351,
+          "imgLeft": 302,
+          "imgWidth": 32,
+          "imgHeight": 18
+        }
+      ]
+    }
+  ]
+}

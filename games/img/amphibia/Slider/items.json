@@ -1,0 +1,35 @@
+{
+	"descriptionName":"Земноводные",
+	"soundItems":[
+		{
+			"itemName":"ГОЛОВАСТИК",
+			"begin":0.5,
+			"end":1.7
+		},
+		{
+			"itemName":"ТРИТОН",
+			"begin":2.2,
+			"end":3.0
+		},
+		{
+			"itemName":"ЛЯГУШКА",
+			"begin":3.5,
+			"end":4.6
+		},
+		{
+			"itemName":"САЛАМАНДРА",
+			"begin":5.0,
+			"end":6.1
+		},
+		{
+			"itemName":"ЖАБА",
+			"begin":6.6,
+			"end":7.5
+		},
+		{
+			"itemName":"ЧЕРВЯГА",
+			"begin":8.0,
+			"end":8.9
+		}
+	]
+}

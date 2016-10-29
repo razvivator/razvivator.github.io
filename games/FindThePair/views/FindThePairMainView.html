@@ -1,0 +1,13 @@
+<sounds></sounds>
+
+<div class="find-the-pair-inner-container"
+     style="padding-top: {{fp.topOffset}}"
+     ng-if="!fp.finished">
+    <div class="find-the-pair-cell"
+         ng-repeat="i in fp.positions track by $index"
+         style="background-position: {{fp.positions[$index]}}; background-image: {{fp.picture}};">
+        <div class="find-the-pair-cover" ng-click="fp.showPicture($event, fp.positions[$index])">?</div>
+    </div>
+</div>
+
+<cup ng-if="fp.finished"></cup>

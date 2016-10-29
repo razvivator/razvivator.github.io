@@ -1,0 +1,20 @@
+<sounds></sounds>
+
+<audio id="sounds" ng-src="{{ws.soundsSrc}}" auto></audio>
+
+<div class="whose-sound-game">
+    <figure ng-repeat="item in ws.items" ng-click="ws.checkAnswer(item)">
+        <span class="whose-sound-tick" ng-show="ws.rightAnswers[$index]">&#10004</span>
+        <div style="background-image: {{ws.picture}};
+                    background-position: {{ws.positions[$index]}}"></div>
+        <figcaption>{{item.itemName}}</figcaption>
+    </figure>
+</div>
+
+<div class="whose-sound-play-button-container" ng-click="ws.playSound()" ng-if="!ws.finished">
+    <div class="whose-sound-triangle-right"></div>
+</div>
+
+<h1 style="text-align: center;
+               color: #FDC30B;
+               font-size: 7em;">{{winnerText}}</h1>

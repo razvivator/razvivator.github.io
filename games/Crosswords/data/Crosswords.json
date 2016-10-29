@@ -1,0 +1,130 @@
+{
+  "gameName": "Кроссворды",
+  "gameThemes": [
+                    {
+                      "themeName":"Моя семья",
+                      "id": "family",
+                      "items": {
+                        "h":{
+                          "Сестра":[9, 2],
+                          "Котенок":[4, 5],
+                          "Бабушка":[4, 7],
+                          "Мама": [1, 9]
+                        },
+                        "v":{
+                          "Щенок": [10, 1],
+                          "Папа": [14, 1],
+                          "Дедушка":[7, 4],
+                          "Брат":[4, 7],
+                          "Малыш":[2, 8]
+                        }
+                      }
+                    },
+                    {
+                      "themeName":"Село, огород",
+                      "id": "village",
+                      "items": {
+                        "h":{
+                          "совок": [1, 1],
+                          "рыхлитель": [2, 4],
+                          "грабли":[6, 6],
+                          "топор":[4, 9],
+                          "шланг":[8, 11]
+                        },
+                        "v":{
+                          "вилы":[3, 1],
+                          "секатор":[8, 3],
+                          "лопата":[10, 6]
+                        }
+                      }
+                    },
+                    {
+                      "themeName":"Овощи",
+                      "id": "vegetables"
+                    }, 
+                    {
+                      "themeName":"Фрукты",
+                      "id": "fruits"
+                    },
+                    {
+                      "themeName":"Еда. Продукты питания",
+                      "id": "food"
+                    }, 
+                    {
+                      "themeName":"Деревья",
+                      "id": "trees"
+                    }, 
+                    {
+                      "themeName":"Цветы",
+                      "id": "flowers"
+                    }, 
+                    {
+                      "themeName":"Дикие животные",
+                      "id": "wild"
+                    }, 
+                    {
+                      "themeName":"Насекомые",
+                      "id": "bugs"
+                    },
+                    {
+                      "themeName":"Пресмыкаю\nщиеся",
+                      "id": "reptiles"
+                    },
+                    {
+                      "themeName":"Земновод\nные",
+                      "id": "amphibia"
+                    },
+                    {
+                      "themeName":"Дикие птицы",
+                      "id": "wildBirds"
+                    },
+                    {
+                      "themeName":"Времена года",
+                      "id": "seasons"
+                    },
+                    {
+                      "themeName":"Зимние праздники",
+                      "id": "holidays"
+                    },
+                    {
+                      "themeName":"Игрушки",
+                      "id": "toys"
+                    },
+                    {
+                      "themeName":"Одежда, украшения",
+                      "id": "clothes"
+                    }, 
+                    {
+                      "themeName":"Цвета",
+                      "id": "colors"
+                    }, 
+                    {
+                      "themeName":"Посуда",
+                      "id": "dishes"
+                    }, 
+                    {
+                      "themeName":"Мебель",
+                      "id": "furniture"
+                    }, 
+                    {
+                      "themeName":"Домашние животные",
+                      "id": "pets"
+                    }, 
+                    {
+                      "themeName":"Экзотические животные",
+                      "id": "exotic"
+                    }, 
+                    {
+                      "themeName":"Профессии",
+                      "id": "professions"
+                    }, 
+                    {
+                      "themeName":"Транспорт",
+                      "id": "transport"
+                    }, 
+                    {
+                      "themeName":"Рыбы",
+                      "id": "fishes"
+                    }
+                  ]
+}

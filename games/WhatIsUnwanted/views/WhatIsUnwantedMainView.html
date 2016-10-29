@@ -1,0 +1,19 @@
+<sounds></sounds>
+
+<div  ng-if="!wu.finished">
+    <div class="what-is-unwanted-container" style="width: {{wu.containerWidth}};">
+        <div class="what-is-unwanted-imgs-container">
+            <div class="what-is-unwanted-single-img"
+                 style="background-image: {{wu.picture}};
+                        background-position: {{wu.itemsPositionsRand[$index]}}"
+                 ng-repeat="item in wu.itemsPositionsRand"
+                 ng-click="wu.checkAnswer(item)"></div>
+        </div>
+    </div>
+</div>
+
+<cup ng-if="wu.finished"></cup>
+
+<div ng-if="!wu.finished" class="smiles-container">
+    <face class="face" ng-repeat="f in faces track by $index"></face>
+</div>

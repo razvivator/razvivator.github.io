@@ -1,5 +1,6 @@
-<h1>
-    {{themeSettings.themeName}}
-</h1>
-
-<sounds></sounds>
+<sounds></sounds><div class="rotate-animal-game-container"><div class="rotate-animal-cell" ng-repeat="item in ra.itemSettings track by $index" style="background-position: {{item.position}};
+                    -webkit-transform: {{item.angle}};
+				    -moz-transform: {{item.angle}};
+		    	    -o-transform: {{item.angle}};
+		    	    -ms-transform: {{item.angle}};
+		    	    transform: {{item.angle}}" ng-click="ra.rotateCell(item)"></div></div>

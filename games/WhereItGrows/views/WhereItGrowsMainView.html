@@ -1,33 +1,10 @@
-<sounds></sounds>
-
-<div class="where-it-grows-game-container">
-    <div class="where-it-grows-left-basket"
-         style="background-image: {{wg.bg}};
-                background-position: 0px 0px">
-        <div style="background-image: {{wg.picture}};
+<sounds></sounds><div class="where-it-grows-game-container"><div class="where-it-grows-left-basket" style="background-image: {{wg.bg}};
+                background-position: 0px 0px"><div style="background-image: {{wg.picture}};
                     background-position: {{position}};
                     top:{{wg.leftBasketCoords[$index].top}};
-                    left:{{wg.leftBasketCoords[$index].left}}"
-             ng-repeat="position in wg.leftBasketElemsPositions"></div>
-    </div>
-    <div class="where-it-grows-items-container" ng-if="!wg.finished">
-        <div class="where-it-grows-item"
-             style="background-image: {{wg.picture}};
-                    background-position: {{item}}"
-             ng-repeat="item in wg.randPositions">
-        </div>
-
-    </div>
-    <div class="where-it-grows-items-container" ng-if="wg.finished">
-        <cup></cup>
-    </div>
-    <div class="where-it-grows-right-basket"
-         style="background-image: {{wg.bg}};
-                background-position: 400px 0px">
-        <div style="background-image: {{wg.picture}};
+                    left:{{wg.leftBasketCoords[$index].left}}" ng-repeat="position in wg.leftBasketElemsPositions"></div></div><div class="where-it-grows-items-container" ng-if="!wg.finished"><div class="where-it-grows-item" style="background-image: {{wg.picture}};
+                    background-position: {{item}}" ng-repeat="item in wg.randPositions"></div></div><div class="where-it-grows-items-container" ng-if="wg.finished"><cup></cup></div><div class="where-it-grows-right-basket" style="background-image: {{wg.bg}};
+                background-position: 400px 0px"><div style="background-image: {{wg.picture}};
                     background-position: {{position}};
                     top:{{wg.rightBasketCoords[$index].top}};
-                    left:{{wg.rightBasketCoords[$index].left}}"
-             ng-repeat="position in wg.rightBasketElemsPositions"></div>
-    </div>
-</div>
+                    left:{{wg.rightBasketCoords[$index].left}}" ng-repeat="position in wg.rightBasketElemsPositions"></div></div></div>

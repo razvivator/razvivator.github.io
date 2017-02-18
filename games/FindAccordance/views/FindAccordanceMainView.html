@@ -1,20 +1,5 @@
-<sounds></sounds>
-
-<div style="text-align: center" ng-if="!fa.finished">
-    <div class="find-accordance-game-container">
-        <div class="find-accordance-center-img animate-show"
-             ng-repeat="centerItem in fa.centerImgPositions"
-             ng-show="fa.currentCenterImgArr[$index]"
-             style="background-image: {{fa.picture}};
-                    background-position: {{centerItem}}"></div>
-        <div class="find-accordance-item"
-             ng-repeat="item in fa.itemsPositions"
-             style="background-image: {{fa.items}};
+<sounds></sounds><div style="text-align: center" ng-if="!fa.finished"><div class="find-accordance-game-container"><div class="find-accordance-center-img animate-show" ng-repeat="centerItem in fa.centerImgPositions" ng-show="fa.currentCenterImgArr[$index]" style="background-image: {{fa.picture}};
+                    background-position: {{centerItem}}"></div><div class="find-accordance-item" ng-repeat="item in fa.itemsPositions" style="background-image: {{fa.items}};
                     background-position: {{item.position}};
                     top: {{item.top}};
-                    left: {{item.left}}"
-             ng-click="fa.checkAnswer($index)"></div>
-    </div>
-</div>
-
-<cup ng-show="fa.finished"></cup>
+                    left: {{item.left}}" ng-click="fa.checkAnswer($index)"></div></div></div><cup ng-show="fa.finished"></cup>

@@ -1,14 +1,3 @@
-<sounds></sounds>
-
-<div class="find-the-same-container"
-     ng-if="!fs.finished"
-     style="width: {{fs.width}}">
-    <div class="find-the-same-pic"
-         style="background-image: {{fs.picture}};
+<sounds></sounds><div class="find-the-same-container" ng-if="!fs.finished" style="width: {{fs.width}}"><div class="find-the-same-pic" style="background-image: {{fs.picture}};
                 background-position: {{item}};
-                border-color: {{fs.arrOfChecked[$index]}}"
-         ng-repeat="item in fs.itemsPositionsRand track by $index"
-         ng-click="fs.checkItem(item, $index)"></div>
-</div>
-
-<cup ng-if="fs.finished"></cup>
+                border-color: {{fs.arrOfChecked[$index]}}" ng-repeat="item in fs.itemsPositionsRand track by $index" ng-click="fs.checkItem(item, $index)"></div></div><cup ng-if="fs.finished"></cup>

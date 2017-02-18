@@ -1,15 +1,5 @@
-<sounds></sounds>
-
-<div class="click-puzzle-game">
-    <div class="click-puzzle-game-container">
-        <div class="click-puzzle-cell"
-             style="width:{{cp.cellWidth}};
+<sounds></sounds><div class="click-puzzle-game"><div class="click-puzzle-game-container"><div class="click-puzzle-cell" style="width:{{cp.cellWidth}};
                     height: {{cp.cellWidth}};
                     background-image: {{cp.picture}};
                     background-position: {{cp.cellsPositions[$index]}};
-                    outline: {{cp.outline}};"
-             ng-repeat="c in cp.cellsPositions track by $index"
-             ng-click="cp.shiftCell($index)"></div>
-    </div>
-    <div class="click-puzzle-example-container" style="background-image: {{cp.picture}}"></div>
-</div>
+                    outline: {{cp.outline}}" ng-repeat="c in cp.cellsPositions track by $index" ng-click="cp.shiftCell($index)"></div></div><div class="click-puzzle-example-container" style="background-image: {{cp.picture}}"></div></div>

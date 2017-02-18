@@ -1,23 +1,7 @@
-<sounds></sounds>
-
-<div class="find-differences-game-container" ng-if="!fd.finished">
-
-    <div class="find-differences-img-container"
-         ng-repeat="pos in fd.picturesBgPositions"
-         style="background-position: {{pos}};
-                background-image: {{fd.picture}}"
-         ng-click="fd.errorClick()">
-        <div class="find-differences-difference"
-             ng-repeat="d in fd.diffs"
-             style="width: {{d.imgWidth}};
+<sounds></sounds><div class="find-differences-game-container" ng-if="!fd.finished"><div class="find-differences-img-container" ng-repeat="pos in fd.picturesBgPositions" style="background-position: {{pos}};
+                background-image: {{fd.picture}}" ng-click="fd.errorClick()"><div class="find-differences-difference" ng-repeat="d in fd.diffs" style="width: {{d.imgWidth}};
                     height: {{d.imgHeight}};
                     top: {{d.imgTop}};
                     left: {{d.imgLeft}};
                     border: {{d.border}};
-                    border-radius: {{d.borderRadius}}"
-             ng-click="fd.checkDifference($event, d, $index)"></div>
-    </div>
-
-</div>
-
-<cup ng-if="fd.finished"></cup>
+                    border-radius: {{d.borderRadius}}" ng-click="fd.checkDifference($event, d, $index)"></div></div></div><cup ng-if="fd.finished"></cup>

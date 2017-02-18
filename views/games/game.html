@@ -1,18 +1,1 @@
-<nav id="gameNavbar">
-    <div class="container-fluid">
-        <div class="row">
-            <span style="color: {{ageSettings.color}}" ng-click="game.changeGameOptions(4)">{{ageSettings.age}}</span>
-            <span style="color: #5C74D7" ng-click="game.changeGameOptions(2)">{{themeSettings.themeName}}</span>
-            <span style="color: #7700BB"ng-click="game.startGame()" ng-if="game.showPlayAgainBtn">Начать заново</span>
-        </div>
-    </div>
-</nav>
-
-<age ng-if="ages"></age>
-<theme ng-if="themes"></theme>
-
-<center  ng-show="game.showLoading">
-    <img id="loadingImg" src="/img/main/loading.svg" alt="">
-</center>
-
-<div id="single-game-container" ng-show="showSelectedGame"></div>
+<nav id="gameNavbar"><div class="container-fluid"><div class="row"><span style="color: {{ageSettings.color}}" ng-click="game.changeGameOptions(4)">{{ageSettings.age}}</span> <span style="color: #5C74D7" ng-click="game.changeGameOptions(2)">{{themeSettings.themeName}}</span> <span style="color: #7700BB" ng-click="game.startGame()" ng-if="game.showPlayAgainBtn">Начать заново</span></div></div></nav><age ng-if="ages"></age><theme ng-if="themes"></theme><center ng-show="game.showLoading"><img id="loadingImg" src="/img/main/loading.svg" alt=""></center><div id="single-game-container" ng-show="showSelectedGame"></div>

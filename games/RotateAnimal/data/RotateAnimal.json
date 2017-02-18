@@ -1,18 +1,1 @@
-{
-  "gameName": "Переверни зверушку",
-  "ages": [
-              {
-                "age":"3-4 года",
-                "level":0
-              },
-              {
-                "age":"4-5 лет",
-                "level":2
-              },
-              {
-                "age":"5-6 лет",
-                "level":4
-              }
-  ],
-  "intervals":true
-}
+{"gameName":"Переверни зверушку","ages":[{"age":"3-4 года","level":0},{"age":"4-5 лет","level":2},{"age":"5-6 лет","level":4}],"gameThemes":[{"themeName":"Зверушки","id":"animals","pictures":["items.png"]}]}

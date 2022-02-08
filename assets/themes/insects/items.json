@@ -1,0 +1,70 @@
+[
+  {
+    "id": "bee",
+    "hasOwnSound": true
+  },
+  {
+    "id": "stag_beetle"
+  },
+  {
+    "id": "fly",
+    "hasOwnSound": true
+  },
+  {
+    "id": "mosquito",
+    "hasOwnSound": true
+  },
+  {
+    "id": "butterfly"
+  },
+  {
+    "id": "dragonfly"
+  },
+  {
+    "id": "grasshopper",
+    "hasOwnSound": true
+  },
+  {
+    "id": "rhinoceros_beetle"
+  },
+  {
+    "id": "cricket",
+    "hasOwnSound": true
+  },
+  {
+    "id": "ant"
+  },
+  {
+    "id": "aphid"
+  },
+  {
+    "id": "bumblebee"
+  },
+  {
+    "id": "cockroach"
+  },
+  {
+    "id": "colorado_beetle"
+  },
+  {
+    "id": "ground_beetle"
+  },
+  {
+    "id": "ladybug"
+  },
+  {
+    "id": "mantis"
+  },
+  {
+    "id": "medvedka"
+  },
+  {
+    "id": "moth"
+  },
+  {
+    "id": "soldier_beetle"
+  },
+  {
+    "id": "wasp"
+  }
+]

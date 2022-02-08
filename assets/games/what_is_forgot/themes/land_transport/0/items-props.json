@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bg",
+    "style": {},
+    "coords": {
+      "top": "0",
+      "left": "0",
+      "unit": "%"
+    }
+  },
+  {
+    "id": "0",
+    "style": {
+      "maxHeight": "11.9%"
+    },
+    "coords": {
+      "top": "20",
+      "left": "26",
+      "unit": "%"
+    }
+  },
+  {
+    "id": "1",
+    "style": {
+      "maxHeight": "19.5%"
+    },
+    "coords": {
+      "top": "0",
+      "left": "59",
+      "unit": "%"
+    }
+  },
+  {
+    "id": "2",
+    "style": {
+      "maxHeight": "57.7%"
+    },
+    "coords": {
+      "top": "42.5",
+      "left": "0",
+      "unit": "%"
+    }
+  },
+  {
+    "id": "3",
+    "style": {
+      "maxHeight": "57%"
+    },
+    "coords": {
+      "top": "43",
+      "left": "57.9",
+      "unit": "%"
+    }
+  },
+  {
+    "id": "4",
+    "style": {
+      "maxHeight": "47.1%"
+    },
+    "coords": {
+      "top": "18.8",
+      "left": "35",
+      "unit": "%"
+    }
+  }
+]

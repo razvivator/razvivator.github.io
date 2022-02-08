@@ -1,0 +1,54 @@
+[
+  {
+    "id": "wolf",
+    "hasOwnSound": true
+  },
+  {
+    "id": "deer",
+    "hasOwnSound": true
+  },
+  {
+    "id": "hedgehog",
+    "hasOwnSound": true
+  },
+  {
+    "id": "squirrel",
+    "hasOwnSound": true
+  },
+  {
+    "id": "fox",
+    "hasOwnSound": true
+  },
+  {
+    "id": "mouse",
+    "hasOwnSound": true
+  },
+  {
+    "id": "bear",
+    "hasOwnSound": true
+  },
+  {
+    "id": "beaver"
+  },
+  {
+    "id": "bison"
+  },
+  {
+    "id": "ground_squirrel"
+  },
+  {
+    "id": "horned_goat"
+  },
+  {
+    "id": "moose"
+  },
+  {
+    "id": "porcupine"
+  },
+  {
+    "id": "skunk"
+  },
+  {
+    "id": "yak"
+  }
+]

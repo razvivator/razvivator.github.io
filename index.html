@@ -1,1 +1,21 @@
-<html ng-app="mainApp"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Развиватор</title><link rel="stylesheet" href="css/style.css"><script src="lib/lib.js"></script><script src="js/script.js"></script></head><body ng-controller="mainCtrl as main"><div class="container-fluid" ng-if="!main.showGame && !main.showSliderContainer"><div class="row"><navbar></navbar></div><div class="row"><div ui-view></div></div></div><div id="slider" ng-if="main.showSliderContainer"><span id="closeSlider" ng-click="main.closeSlider()">&#10006</span><center ng-show="main.showLoading"><img class="loadingImg" src="/img/main/loading.svg" alt=""></center><slider ng-if="main.showSlider"></slider></div><div id="game" ng-if="main.showGame"><center ng-show="main.showThemesLoading"><img class="loadingImg" src="/img/main/loading.svg" alt=""></center><span id="backStep" ng-click="main.backStep()">&#8678</span> <span id="closeGame" ng-click="main.closeGame()">&#10006</span><game></game></div></body></html>
+<!DOCTYPE html><html lang="ru"><head>
+  <!-- Google Analytics -->
+  <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', 'UA-69723001-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+  <!-- End Google Analytics -->
+
+  <meta charset="utf-8">
+  <title>Развиватор</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>@font-face{font-family:coquettec;src:url(coquettec.7a66c3af182e8a74.ttf)}*{box-sizing:border-box;margin:0;padding:0}html{overflow-y:scroll}body{height:100vh;padding:1rem 2rem;font-family:coquettec,sans-serif;-webkit-user-select:none;-moz-user-select:none;user-select:none}@media screen and (max-width: 1024px){body{padding:.5rem}}</style><link rel="stylesheet" href="styles.a9df1ab2c709ceee.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.a9df1ab2c709ceee.css"></noscript></head>
+<body>
+  <app-root></app-root>
+<script src="runtime.24c2caf77039be74.js" type="module"></script><script src="polyfills.952640489e452b6e.js" type="module"></script><script src="main.827f12fd6dbc3ce7.js" type="module"></script>
+
+</body></html>

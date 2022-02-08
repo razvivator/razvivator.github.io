@@ -1,6 +1,0 @@
-<sounds></sounds><div class="find-words-in-table-game"><div class="find-words-in-table-col"><figure ng-repeat="item in fw.randPicsPositions | limitTo : 4"><span class="find-words-in-table-tick" ng-show="fw.showTickArr[$index]">&#10004</span><div style="background-image: {{fw.picture}};
-                        background-position: {{item}}"></div><span>{{fw.randItems[$index]}}</span></figure></div><table class="find-words-in-table-table-of-words"><tr ng-repeat="tr in fw.randRows"><td class="find-words-in-table-cell" ng-class="{
-                            'find-words-in-table-clicked':fw.clickedArr[$parent.$index][$index],
-                            'find-words-in-table-shadowed':fw.shadowedArr[$parent.$index][$index]
-                           }" ng-repeat="char in tr track by $index" ng-click="fw.chooseLetter(char, $event, $parent.$index, $index)">{{char}}</td></tr></table><div class="find-words-in-table-col"><figure ng-repeat="item in fw.randPicsPositions | limitTo : 4 : 4"><span class="find-words-in-table-tick" ng-show="fw.showTickArr[$index+4]">&#10004</span><div style="background-image: {{fw.picture}};
-                        background-position: {{item}}"></div><span>{{fw.randItems[$index+4]}}</span></figure></div></div>

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cow",
+    "hasOwnSound": true
+  },
+  {
+    "id": "sheep",
+    "hasOwnSound": true
+  },
+  {
+    "id": "horse",
+    "hasOwnSound": true
+  },
+  {
+    "id": "dog",
+    "hasOwnSound": true
+  },
+  {
+    "id": "cat",
+    "hasOwnSound": true
+  },
+  {
+    "id": "donkey",
+    "hasOwnSound": true
+  },
+  {
+    "id": "goat",
+    "hasOwnSound": true
+  },
+  {
+    "id": "pig",
+    "hasOwnSound": true
+  }
+]

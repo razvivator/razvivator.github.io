@@ -1,0 +1,19 @@
+{
+  "blender": "блендер",
+  "dishwasher": "посудомоечная машина",
+  "electric_kettle": "электрический чайник",
+  "grill": "гриль",
+  "hob": "варочная поверхность",
+  "iron": "утюг",
+  "juicer": "соковыжималка",
+  "meat_grinder": "мясорубка",
+  "microwave": "микроволновая печь",
+  "mixer": "миксер",
+  "multi_cooker": "мультиварка",
+  "oven": "духовой шкаф",
+  "refrigerator": "холодильник",
+  "sewing_machine": "швейная машинка",
+  "toaster": "тостер",
+  "vacuum_cleaner": "пылесос",
+  "washing_machine": "стиральная машина"
+}

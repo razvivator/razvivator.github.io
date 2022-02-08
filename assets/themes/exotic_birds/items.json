@@ -1,0 +1,34 @@
+[
+  {
+    "id": "hummingbird",
+    "hasOwnSound": false
+  },
+  {
+    "id": "mandarin_duck",
+    "hasOwnSound": false
+  },
+  {
+    "id": "marabou",
+    "hasOwnSound": false
+  },
+  {
+    "id": "ostrich",
+    "hasOwnSound": false
+  },
+  {
+    "id": "parrot",
+    "hasOwnSound": false
+  },
+  {
+    "id": "rhino_bird",
+    "hasOwnSound": false
+  },
+  {
+    "id": "secretary_bird",
+    "hasOwnSound": false
+  },
+  {
+    "id": "toucan",
+    "hasOwnSound": false
+  }
+]

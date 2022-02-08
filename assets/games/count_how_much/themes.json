@@ -1,0 +1,22 @@
+[
+  {
+    "id": "insects",
+    "customItems": true
+  },
+  {
+    "id": "shoes",
+    "customItems": true
+  },
+  {
+    "id": "dishes",
+    "customItems": true
+  },
+  {
+    "id": "air_transport",
+    "customItems": true
+  },
+  {
+    "id": "sea_animals",
+    "customItems": true
+  }
+]

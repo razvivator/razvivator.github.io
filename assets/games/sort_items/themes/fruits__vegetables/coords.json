@@ -1,0 +1,86 @@
+{
+  "fruits": [
+    {
+      "top": 0,
+      "left": 47,
+      "unit": "%"
+    },
+    {
+      "top": 8,
+      "left": 23,
+      "unit": "%"
+    },
+    {
+      "top": 8,
+      "left": 58,
+      "unit": "%"
+    },
+    {
+      "top": 22,
+      "left": 43,
+      "unit": "%"
+    },
+    {
+      "top": 29,
+      "left": 0,
+      "unit": "%"
+    },
+    {
+      "top": 29,
+      "left": 74,
+      "unit": "%"
+    },
+    {
+      "top": 52,
+      "left": 13,
+      "unit": "%"
+    },
+    {
+      "top": 52,
+      "left": 68,
+      "unit": "%"
+    }
+  ],
+  "vegetables": [
+    {
+      "top": 28,
+      "left": 50,
+      "unit": "%"
+    },
+    {
+      "top": 28,
+      "left": 20,
+      "unit": "%"
+    },
+    {
+      "top": 44,
+      "left": 13,
+      "unit": "%"
+    },
+    {
+      "top": 45,
+      "left": 37,
+      "unit": "%"
+    },
+    {
+      "top": 47,
+      "left": 63,
+      "unit": "%"
+    },
+    {
+      "top": 63,
+      "left": 11,
+      "unit": "%"
+    },
+    {
+      "top": 63,
+      "left": 43,
+      "unit": "%"
+    },
+    {
+      "top": 63,
+      "left": 75,
+      "unit": "%"
+    }
+  ]
+}

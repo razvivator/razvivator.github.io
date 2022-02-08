@@ -1,0 +1,19 @@
+{
+  "ambulance": "швидка допомога",
+  "bulldozer": "бульдозер",
+  "concrete_mixer": "бетономішалка",
+  "crane": "кран",
+  "dump_truck": "самоскид",
+  "excavator": "екскаватор",
+  "fire_fighter": "пожежна машина",
+  "garbage_truck": "сміттєвоз",
+  "gasoline_tanker": "бензовоз",
+  "harvester": "комбайн",
+  "loader": "навантажувач",
+  "police_car": "поліцейська машина",
+  "roller": "каток",
+  "tow_truck": "евакуатор",
+  "tower_crane": "баштовий кран",
+  "tractor": "трактор",
+  "truck": "вантажівка"
+}

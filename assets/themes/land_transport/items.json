@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bike",
+    "hasOwnSound": true
+  },
+  {
+    "id": "board"
+  },
+  {
+    "id": "bus"
+  },
+  {
+    "id": "bicycle"
+  },
+  {
+    "id": "car",
+    "hasOwnSound": true
+  },
+  {
+    "id": "kick_scooter"
+  },
+  {
+    "id": "monorail"
+  },
+  {
+    "id": "motorcycle_with_sidecar"
+  },
+  {
+    "id": "steam_train"
+  },
+  {
+    "id": "tram"
+  },
+  {
+    "id": "train",
+    "hasOwnSound": true
+  },
+  {
+    "id": "trolleybus",
+    "hasOwnSound": true
+  }
+]

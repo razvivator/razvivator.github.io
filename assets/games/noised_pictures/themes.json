@@ -1,0 +1,150 @@
+[
+  {
+    "id": "air_transport",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "amphibians",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "berries",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "clocks",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "clothes",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "cold_lands_animals",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "dishes",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "domestic_animals",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "domestic_birds",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "eatable_mushrooms",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "exotic_animals",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "exotic_birds",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "family",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "fishes",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "flowers",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "food",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "fruits",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "furniture",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "household_appliances",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "insects",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "land_transport",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "musical",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "professions",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "reptiles",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "sea_animals",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "service_transport",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "shoes",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "tools",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "toys",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "trees",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "uneatable_mushrooms",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "vegetables",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "village",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "water_transport",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "wild_animals",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "wild_birds",
+    "customItemImgExt": "svg"
+  },
+  {
+    "id": "winter_holidays",
+    "customItemImgExt": "svg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "mother",
+    "ext": "png"
+  },
+  {
+    "id": "father",
+    "ext": "png"
+  },
+  {
+    "id": "sister",
+    "ext": "png"
+  },
+  {
+    "id": "brother",
+    "ext": "png"
+  },
+  {
+    "id": "grandmother",
+    "ext": "png"
+  },
+  {
+    "id": "grandfather",
+    "ext": "png"
+  },
+  {
+    "id": "baby",
+    "ext": "png"
+  },
+  {
+    "id": "cat",
+    "ext": "png"
+  }
+]

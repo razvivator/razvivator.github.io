@@ -1,0 +1,45 @@
+[
+  {
+    "id": "family"
+  },
+  {
+    "id": "wild_birds",
+    "customItems": true
+  },
+  {
+    "id": "village",
+    "customItems": true
+  },
+  {
+    "id": "food",
+    "customItems": true
+  },
+  {
+    "id": "shoes",
+    "customItems": true
+  },
+  {
+    "id": "dishes",
+    "customItems": true
+  },
+  {
+    "id": "fruits",
+    "themeItemsIds": ["pear", "apricot", "avocado", "apple", "cherry", "plum", "kiwi", "carom"]
+  },
+  {
+    "id": "domestic_animals",
+    "customItems": true
+  },
+  {
+    "id": "exotic_animals",
+    "customItems": true
+  },
+  {
+    "id": "wild_animals",
+    "customItems": true
+  },
+  {
+    "id": "sea_animals",
+    "customItems": true
+  }
+]

@@ -1,5 +1,0 @@
-<sounds></sounds><div ng-if="!fs.finished"><div class="find-shadow-origin-container"><div class="find-shadow-origin" ng-class="fs.isActiveArr[$index]" ng-repeat="item in fs.originPicsIndexes track by $index" style="background-image: {{fs.picture}};
-                    background-position: {{fs.originPicsPositions[$index]}}"></div></div><div class="find-shadow-shadowed-container"><div class="find-shadow-shadowed" ng-repeat="item in fs.shadowedPicsIndexes track by $index" style="background-image: {{fs.picture}};
-                    background-position: {{fs.shadowedPicsPositions[$index]}}" ng-click="fs.checkAnswer(item)"></div></div><h1 ng-if="fs.finished" style="text-align: center;
-               color: #FDC30B;
-               font-size: 7em">{{winnerText}}</h1></div><cup ng-if="fs.finished"></cup>

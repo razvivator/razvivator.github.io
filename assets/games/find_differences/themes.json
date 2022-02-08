@@ -1,0 +1,62 @@
+[
+  {
+    "id": "amphibians",
+    "customItems": true
+  },
+  {
+      "id": "dishes",
+      "customItems": true
+  },
+  {
+      "id": "exotic_animals",
+      "customItems": true
+  },
+  {
+      "id": "family",
+      "customItems": true
+  },
+  {
+      "id": "food",
+      "customItems": true
+  },
+  {
+      "id": "furniture",
+      "customItems": true
+  },
+  {
+      "id": "domestic_animals",
+      "customItems": true
+  },
+  {
+      "id": "professions",
+      "customItems": true
+  },
+  {
+      "id": "sea_animals",
+      "customItems": true
+  },
+  {
+      "id": "toys",
+      "customItems": true
+  },
+  {
+      "id": "water_transport",
+      "customItems": true
+  },
+  {
+      "id": "vegetables",
+      "customItems": true
+  },
+  {
+      "id": "village",
+      "customItems": true
+  },
+  {
+      "id": "wild_animals",
+      "customItems": true
+  },
+  {
+    "id": "winter_holidays",
+    "customItems": true
+  }
+]

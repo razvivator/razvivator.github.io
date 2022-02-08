@@ -1,0 +1,29 @@
+[
+  {
+    "id": "village"
+  },
+  {
+    "id": "domestic_birds"
+  },
+  {
+    "id": "exotic_animals"
+  },
+  {
+    "id": "domestic_animals"
+  },
+  {
+    "id": "land_transport"
+  },
+  {
+    "id": "water_transport"
+  },
+  {
+    "id": "trees"
+  },
+  {
+    "id": "vegetables"
+  },
+  {
+    "id": "wild_birds"
+  }
+]

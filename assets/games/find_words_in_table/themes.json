@@ -1,0 +1,80 @@
+[
+  {
+    "id": "berries"
+  },
+  {
+    "id": "clothes"
+  },
+  {
+    "id": "colors"
+  },
+  {
+    "id": "domestic_animals"
+  },
+  {
+    "id": "domestic_birds"
+  },
+  {
+    "id": "eatable_mushrooms"
+  },
+  {
+    "id": "exotic_animals"
+  },
+  {
+    "id": "family"
+  },
+  {
+    "id": "flowers"
+  },
+  {
+    "id": "food"
+  },
+  {
+    "id": "fruits"
+  },
+  {
+    "id": "insects"
+  },
+  {
+    "id": "musical"
+  },
+  {
+    "id": "nature"
+  },
+  {
+    "id": "professions"
+  },
+  {
+    "id": "reptiles"
+  },
+  {
+    "id": "sea_animals"
+  },
+  {
+    "id": "service_transport"
+  },
+  {
+    "id": "space"
+  },
+  {
+    "id": "tools"
+  },
+  {
+    "id": "toys"
+  },
+  {
+    "id": "trees"
+  },
+  {
+    "id": "vegetables"
+  },
+  {
+    "id": "village"
+  },
+  {
+    "id": "wild_animals"
+  },
+  {
+    "id": "wild_birds"
+  }
+]

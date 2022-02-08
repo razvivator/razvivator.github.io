@@ -1,0 +1,26 @@
+[
+  {
+    "id": "triangle",
+    "ext": "png"
+  },
+  {
+    "id": "rectangle",
+    "ext": "png"
+  },
+  {
+    "id": "squire",
+    "ext": "png"
+  },
+  {
+    "id": "circle",
+    "ext": "png"
+  },
+  {
+    "id": "oval",
+    "ext": "png"
+  },
+  {
+    "id": "rhombus",
+    "ext": "png"
+  }
+]

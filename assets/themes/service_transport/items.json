@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ambulance"
+  },
+  {
+    "id": "bulldozer"
+  },
+  {
+    "id": "concrete_mixer"
+  },
+  {
+    "id": "crane"
+  },
+  {
+    "id": "dump_truck"
+  },
+  {
+    "id": "excavator"
+  },
+  {
+    "id": "fire_fighter"
+  },
+  {
+    "id": "garbage_truck"
+  },
+  {
+    "id": "gasoline_tanker"
+  },
+  {
+    "id": "harvester"
+  },
+  {
+    "id": "loader"
+  },
+  {
+    "id": "police_car"
+  },
+  {
+    "id": "roller"
+  },
+  {
+    "id": "tow_truck"
+  },
+  {
+    "id": "tower_crane"
+  },
+  {
+    "id": "tractor"
+  },
+  {
+    "id": "truck"
+  }
+]

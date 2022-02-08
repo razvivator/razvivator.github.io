@@ -1,0 +1,11 @@
+{
+  "alarm_clock": "будильник",
+  "digital_clock": "цифровые часы",
+  "pendulum_clock": "маятниковые часы",
+  "pocket_clock": "карманные часы",
+  "sand_clock": "песочные часы",
+  "smart_watch": "смарт часы",
+  "stop_watch": "секундомер",
+  "sun_clock": "солнечные часы",
+  "watch": "наручные часы"
+}

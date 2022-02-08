@@ -1,0 +1,122 @@
+[
+  {
+    "id": "air_transport"
+  },
+  {
+    "id": "amphibians"
+  },
+  {
+    "id": "berries"
+  },
+  {
+    "id": "clocks"
+  },
+  {
+    "id": "clothes"
+  },
+  {
+    "id": "cold_lands_animals"
+  },
+  {
+    "id": "dishes"
+  },
+  {
+    "id": "domestic_animals"
+  },
+  {
+    "id": "domestic_birds"
+  },
+  {
+    "id": "eatable_mushrooms"
+  },
+  {
+    "id": "exotic_animals"
+  },
+  {
+    "id": "exotic_birds"
+  },
+  {
+    "id": "family"
+  },
+  {
+    "id": "fishes"
+  },
+  {
+    "id": "flowers"
+  },
+  {
+    "id": "food"
+  },
+  {
+    "id": "fruits"
+  },
+  {
+    "id": "furniture"
+  },
+  {
+    "id": "geometric"
+  },
+  {
+    "id": "household_appliances"
+  },
+  {
+    "id": "insects"
+  },
+  {
+    "id": "land_transport"
+  },
+  {
+    "id": "musical"
+  },
+  {
+    "id": "nature"
+  },
+  {
+    "id": "professions"
+  },
+  {
+    "id": "reptiles"
+  },
+  {
+    "id": "sea_animals"
+  },
+  {
+    "id": "service_transport"
+  },
+  {
+    "id": "shoes"
+  },
+  {
+    "id": "tools"
+  },
+  {
+    "id": "toys"
+  },
+  {
+    "id": "trees"
+  },
+  {
+    "id": "uneatable_mushrooms"
+  },
+  {
+    "id": "vegetables"
+  },
+  {
+    "id": "village"
+  },
+  {
+    "id": "water_transport"
+  },
+  {
+    "id": "weather"
+  },
+  {
+    "id": "wild_animals"
+  },
+  {
+    "id": "wild_birds"
+  },
+  {
+    "id": "winter_holidays"
+  }
+]

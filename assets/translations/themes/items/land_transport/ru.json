@@ -1,0 +1,14 @@
+{
+  "bike": "мотоцикл",
+  "board": "скейт",
+  "bus": "автобус",
+  "bicycle": "велосипед",
+  "car": "автомобиль",
+  "kick_scooter": "самокат",
+  "monorail": "монорельс",
+  "motorcycle_with_sidecar": "мотоцикл с коляской",
+  "steam_train": "паровоз",
+  "tram": "трамвай",
+  "train": "поезд",
+  "trolleybus": "троллейбус"
+}

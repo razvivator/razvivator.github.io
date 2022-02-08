@@ -1,0 +1,162 @@
+[
+  {
+    "id": "organ",
+    "hasOwnSound": true
+  },
+  {
+    "id": "contrabass",
+    "hasOwnSound": true
+  },
+  {
+    "id": "piano",
+    "hasOwnSound": true
+  },
+  {
+    "id": "drums",
+    "hasOwnSound": true
+  },
+  {
+    "id": "tuba",
+    "hasOwnSound": true
+  },
+  {
+    "id": "trembita",
+    "hasOwnSound": true
+  },
+  {
+    "id": "gong",
+    "hasOwnSound": true
+  },
+  {
+    "id": "cello",
+    "hasOwnSound": true
+  },
+  {
+    "id": "bongo",
+    "hasOwnSound": true
+  },
+  {
+    "id": "accordion",
+    "hasOwnSound": true
+  },
+  {
+    "id": "balalaika",
+    "hasOwnSound": true
+  },
+  {
+    "id": "bass_guitar",
+    "hasOwnSound": true
+  },
+  {
+    "id": "acoustic_guitar",
+    "hasOwnSound": true
+  },
+  {
+    "id": "clarinet",
+    "hasOwnSound": true
+  },
+  {
+    "id": "cymbals",
+    "hasOwnSound": true
+  },
+  {
+    "id": "electric_guitar",
+    "hasOwnSound": true
+  },
+  {
+    "id": "violin",
+    "hasOwnSound": true
+  },
+  {
+    "id": "sax",
+    "hasOwnSound": true
+  },
+  {
+    "id": "french_horn",
+    "hasOwnSound": true
+  },
+  {
+    "id": "xylophone",
+    "hasOwnSound": true
+  },
+  {
+    "id": "bayan",
+    "hasOwnSound": true
+  },
+  {
+    "id": "harp",
+    "hasOwnSound": true
+  },
+  {
+    "id": "synthesizer",
+    "hasOwnSound": true
+  },
+  {
+    "id": "banjo",
+    "hasOwnSound": true
+  },
+  {
+    "id": "bagpipes",
+    "hasOwnSound": true
+  },
+  {
+    "id": "bugle",
+    "hasOwnSound": true
+  },
+  {
+    "id": "trombone",
+    "hasOwnSound": true
+  },
+  {
+    "id": "flute",
+    "hasOwnSound": true
+  },
+  {
+    "id": "trumpet",
+    "hasOwnSound": true
+  },
+  {
+    "id": "gusli",
+    "hasOwnSound": true
+  },
+  {
+    "id": "mandolin",
+    "hasOwnSound": true
+  },
+  {
+    "id": "sitar",
+    "hasOwnSound": true
+  },
+  {
+    "id": "barrel_organ",
+    "hasOwnSound": true
+  },
+  {
+    "id": "pipe",
+    "hasOwnSound": true
+  },
+  {
+    "id": "tambourine",
+    "hasOwnSound": true
+  },
+  {
+    "id": "triangle",
+    "hasOwnSound": true
+  },
+  {
+    "id": "harmonica",
+    "hasOwnSound": true
+  },
+  {
+    "id": "maracas",
+    "hasOwnSound": true
+  },
+  {
+    "id": "jews_harp",
+    "hasOwnSound": true
+  },
+  {
+    "id": "castanets",
+    "hasOwnSound": true
+  }
+]

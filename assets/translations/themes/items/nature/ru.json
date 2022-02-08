@@ -1,0 +1,13 @@
+{
+  "desert": "пустыня",
+  "forest": "лес",
+  "island": "остров",
+  "jungle": "джунгли",
+  "mountains": "горы",
+  "river": "река",
+  "sea": "море",
+  "steppe": "степь",
+  "tundra": "тундра",
+  "waterfall": "водопад",
+  "volcano": "вулкан"
+}

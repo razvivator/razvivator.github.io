@@ -1,0 +1,58 @@
+[
+  {
+    "id": "berries",
+    "customItems": true
+  },
+  {
+    "id": "clothes",
+    "customItems": true
+  },
+  {
+    "id": "domestic_animals",
+    "customItems": true
+  },
+  {
+    "id": "domestic_birds",
+    "customItems": true
+  },
+  {
+    "id": "food",
+    "customItems": true
+  },
+  {
+    "id": "furniture",
+    "customItems": true
+  },
+  {
+    "id": "sea_animals",
+    "customItems": true
+  },
+  {
+    "id": "seasons",
+    "customItems": true
+  },
+  {
+    "id": "toys",
+    "customItems": true
+  },
+  {
+    "id": "family",
+    "customItems": true
+  },
+  {
+    "id": "water_transport",
+    "customItems": true
+  },
+  {
+    "id": "wild_animals",
+    "customItems": true
+  },
+  {
+    "id": "winter_holidays",
+    "customItems": true
+  },
+  {
+    "id": "vegetables",
+    "customItems": true
+  }
+]

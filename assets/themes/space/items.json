@@ -1,0 +1,45 @@
+[
+  {
+    "id": "starry_sky",
+    "ext": "jpg"
+  },
+  {
+    "id": "galaxy"
+  },
+  {
+    "id": "asteroid"
+  },
+  {
+    "id": "comet"
+  },
+  {
+    "id": "sun"
+  },
+  {
+    "id": "mercury"
+  },
+  {
+    "id": "venus"
+  },
+  {
+    "id": "earth"
+  },
+  {
+    "id": "moon"
+  },
+  {
+    "id": "mars"
+  },
+  {
+    "id": "jupiter"
+  },
+  {
+    "id": "saturn"
+  },
+  {
+    "id": "uranus"
+  },
+  {
+    "id": "neptune"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "id": "gull",
+    "hasOwnSound": true
+  },
+  {
+    "id": "eagle",
+    "hasOwnSound": true
+  },
+  {
+    "id": "sparrow",
+    "hasOwnSound": true
+  },
+  {
+    "id": "crown",
+    "hasOwnSound": true
+  },
+  {
+    "id": "thrush",
+    "hasOwnSound": true
+  },
+  {
+    "id": "woodpecker",
+    "hasOwnSound": true
+  },
+  {
+    "id": "lark",
+    "hasOwnSound": true
+  },
+  {
+    "id": "finch",
+    "hasOwnSound": true
+  },
+  {
+    "id": "oriole",
+    "hasOwnSound": true
+  },
+  {
+    "id": "canary",
+    "hasOwnSound": true
+  },
+  {
+    "id": "cuckoo",
+    "hasOwnSound": true
+  },
+  {
+    "id": "swallow",
+    "hasOwnSound": true
+  },
+  {
+    "id": "kestrel",
+    "hasOwnSound": true
+  },
+  {
+    "id": "owl",
+    "hasOwnSound": true
+  },
+  {
+    "id": "nightingale",
+    "hasOwnSound": true
+  },
+  {
+    "id": "lapwing",
+    "hasOwnSound": true
+  },
+  {
+    "id": "albatross"
+  },
+  {
+    "id": "bullfinch"
+  },
+  {
+    "id": "condor"
+  },
+  {
+    "id": "crossbill"
+  },
+  {
+    "id": "dove"
+  },
+  {
+    "id": "flamingo"
+  },
+  {
+    "id": "goldfinch"
+  },
+  {
+    "id": "heron"
+  },
+  {
+    "id": "hoopoe"
+  },
+  {
+    "id": "jay"
+  },
+  {
+    "id": "orlan"
+  },
+  {
+    "id": "pelican"
+  },
+  {
+    "id": "pheasant"
+  },
+  {
+    "id": "shadoof"
+  },
+  {
+    "id": "starling"
+  },
+  {
+    "id": "stork"
+  },
+  {
+    "id": "swan"
+  },
+  {
+    "id": "tit"
+  }
+]

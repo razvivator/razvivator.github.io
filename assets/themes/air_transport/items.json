@@ -1,0 +1,28 @@
+[
+  {
+    "id": "balloon"
+  },
+  {
+    "id": "glider"
+  },
+  {
+    "id": "hand_glider"
+  },
+  {
+    "id": "helicopter",
+    "hasOwnSound": true
+  },
+  {
+    "id": "plane",
+    "hasOwnSound": true
+  },
+  {
+    "id": "rocket"
+  },
+  {
+    "id": "ufo"
+  },
+  {
+    "id": "zeppelin"
+  }
+]

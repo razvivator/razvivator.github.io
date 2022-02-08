@@ -1,0 +1,29 @@
+[
+  {
+    "id": "alarm_clock"
+  },
+  {
+    "id": "digital_clock"
+  },
+  {
+    "id": "pendulum_clock"
+  },
+  {
+    "id": "pocket_clock"
+  },
+  {
+    "id": "sand_clock"
+  },
+  {
+    "id": "smart_watch"
+  },
+  {
+    "id": "stop_watch"
+  },
+  {
+    "id": "sun_clock"
+  },
+  {
+    "id": "watch"
+  }
+]

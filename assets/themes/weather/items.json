@@ -1,0 +1,42 @@
+[
+  {
+    "id": "avalanche",
+    "ext": "jpg"
+  },
+  {
+    "id": "clouds",
+    "ext": "jpg"
+  },
+  {
+    "id": "eclipse",
+    "ext": "jpg"
+  },
+  {
+    "id": "fog",
+    "ext": "jpg"
+  },
+  {
+    "id": "hail",
+    "ext": "jpg"
+  },
+  {
+    "id": "lightning",
+    "ext": "jpg"
+  },
+  {
+    "id": "lunar_eclipse",
+    "ext": "jpg"
+  },
+  {
+    "id": "polar_lights",
+    "ext": "jpg"
+  },
+  {
+    "id": "rain",
+    "ext": "jpg"
+  },
+  {
+    "id": "rainbow",
+    "ext": "jpg"
+  }
+]

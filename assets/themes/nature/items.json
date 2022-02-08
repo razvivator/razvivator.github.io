@@ -1,0 +1,46 @@
+[
+  {
+    "id": "desert",
+    "ext": "jpg"
+  },
+  {
+    "id": "forest",
+    "ext": "jpg"
+  },
+  {
+    "id": "island",
+    "ext": "jpg"
+  },
+  {
+    "id": "jungle",
+    "ext": "jpg"
+  },
+  {
+    "id": "mountains",
+    "ext": "jpg"
+  },
+  {
+    "id": "river",
+    "ext": "jpg"
+  },
+  {
+    "id": "sea",
+    "ext": "jpg"
+  },
+  {
+    "id": "steppe",
+    "ext": "jpg"
+  },
+  {
+    "id": "tundra",
+    "ext": "jpg"
+  },
+  {
+    "id": "waterfall",
+    "ext": "jpg"
+  },
+  {
+    "id": "volcano",
+    "ext": "jpg"
+  }
+]

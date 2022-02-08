@@ -1,0 +1,94 @@
+[
+  {
+    "id": "amphibians",
+    "customItems": true
+  },
+  {
+    "id": "clothes",
+    "customItems": true
+  },
+  {
+    "id": "colors",
+    "customItems": true
+  },
+  {
+    "id": "dishes",
+    "customItems": true
+  },
+  {
+    "id": "domestic_animals",
+    "customItems": true
+  },
+  {
+    "id": "exotic_animals",
+    "customItems": true
+  },
+  {
+    "id": "family",
+    "customItems": true
+  },
+  {
+    "id": "sea_animals",
+    "customItems": true
+  },
+  {
+    "id": "flowers",
+    "customItems": true
+  },
+  {
+    "id": "food",
+    "customItems": true
+  },
+  {
+    "id": "furniture",
+    "customItems": true
+  },
+  {
+    "id": "insects",
+    "customItems": true
+  },
+  {
+    "id": "professions",
+    "customItems": true
+  },
+  {
+    "id": "reptiles",
+    "customItems": true
+  },
+  {
+    "id": "seasons",
+    "customItems": true
+  },
+  {
+    "id": "toys",
+    "customItems": true
+  },
+  {
+    "id": "air_transport__land_transport",
+    "customItems": true
+  },
+  {
+    "id": "trees",
+    "customItems": true
+  },
+  {
+    "id": "vegetables",
+    "customItems": true
+  },
+  {
+    "id": "village",
+    "customItems": true
+  },
+  {
+    "id": "wild_animals",
+    "customItems": true
+  },
+  {
+    "id": "wild_birds",
+    "customItems": true
+  },
+  {
+    "id": "winter_holidays",
+    "customItems": true
+  }
+]

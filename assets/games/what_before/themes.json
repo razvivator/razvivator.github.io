@@ -1,0 +1,22 @@
+[
+  {
+    "id": "family",
+    "themeItemsIds": ["baby", "brother", "father", "grandfather"]
+  },
+  {
+    "id": "seasons",
+    "themeItemsIds": ["winter", "spring", "summer", "autumn"]
+  },
+  {
+    "id": "space",
+    "themeItemsIds": ["mercury", "venus", "earth", "mars"]
+  },
+  {
+    "id": "insects",
+    "customItems": true
+  },
+  {
+    "id": "domestic_birds",
+    "customItems": true
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "monkey",
+    "hasOwnSound": true
+  },
+  {
+    "id": "rhinoceros",
+    "hasOwnSound": true
+  },
+  {
+    "id": "lion",
+    "hasOwnSound": true
+  },
+  {
+    "id": "kangaroo",
+    "hasOwnSound": true
+  },
+  {
+    "id": "leopard",
+    "hasOwnSound": true
+  },
+  {
+    "id": "elephant",
+    "hasOwnSound": true
+  },
+  {
+    "id": "zebra",
+    "hasOwnSound": true
+  },
+  {
+    "id": "camel",
+    "hasOwnSound": true
+  },
+  {
+    "id": "giraffe",
+    "hasOwnSound": true
+  },
+  {
+    "id": "hippo",
+    "hasOwnSound": true
+  },
+  {
+    "id": "koala",
+    "hasOwnSound": true
+  },
+  {
+    "id": "panda",
+    "hasOwnSound": true
+  },
+  {
+    "id": "lemur",
+    "hasOwnSound": true
+  }
+]

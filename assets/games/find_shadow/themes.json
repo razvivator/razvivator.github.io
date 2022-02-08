@@ -54,9 +54,6 @@
     "id": "furniture"
   },
   {
-    "id": "geometric"
-  },
-  {
     "id": "household_appliances"
   },
   {
@@ -67,9 +64,6 @@
   },
   {
     "id": "musical"
-  },
-  {
-    "id": "nature"
   },
   {
     "id": "professions"
@@ -106,9 +100,6 @@
   },
   {
     "id": "water_transport"
-  },
-  {
-    "id": "weather"
   },
   {
     "id": "wild_animals"

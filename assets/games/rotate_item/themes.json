@@ -6,9 +6,6 @@
     "id": "amphibians"
   },
   {
-    "id": "berries"
-  },
-  {
     "id": "clocks"
   },
   {
@@ -45,16 +42,7 @@
     "id": "flowers"
   },
   {
-    "id": "food"
-  },
-  {
-    "id": "fruits"
-  },
-  {
     "id": "furniture"
-  },
-  {
-    "id": "geometric"
   },
   {
     "id": "household_appliances"
@@ -66,19 +54,10 @@
     "id": "land_transport"
   },
   {
-    "id": "musical"
-  },
-  {
     "id": "nature"
   },
   {
     "id": "professions"
-  },
-  {
-    "id": "reptiles"
-  },
-  {
-    "id": "sea_animals"
   },
   {
     "id": "service_transport"
@@ -87,19 +66,10 @@
     "id": "shoes"
   },
   {
-    "id": "tools"
-  },
-  {
-    "id": "toys"
-  },
-  {
     "id": "trees"
   },
   {
     "id": "uneatable_mushrooms"
-  },
-  {
-    "id": "vegetables"
   },
   {
     "id": "village"
@@ -112,8 +82,5 @@
   },
   {
     "id": "wild_birds"
-  },
-  {
-    "id": "winter_holidays"
   }
 ]

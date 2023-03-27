@@ -1,32 +1,32 @@
 [
-    {
-        "top": 21,
-        "left": 127,
-        "right": 166.4,
-        "bottom": 59.4
-    },
-    {
-        "top": 174,
-        "left": 284,
-        "right": 383,
-        "bottom": 269
-    },
-    {
-        "top": 146,
-        "left": 129.8,
-        "right": 277,
-        "bottom": 294.8
-    },
-    {
-        "top": 285,
-        "left": 279,
-        "right": 306,
-        "bottom": 312
-    },
-    {
-        "top": 319,
-        "left": 186,
-        "right": 231,
-        "bottom": 355.2
-    }
+  {
+    "top": 21,
+    "left": 127,
+    "right": 166.4,
+    "bottom": 59.4
+  },
+  {
+    "top": 174,
+    "left": 284,
+    "right": 383,
+    "bottom": 269
+  },
+  {
+    "top": 146,
+    "left": 129.8,
+    "right": 277,
+    "bottom": 294.8
+  },
+  {
+    "top": 285,
+    "left": 279,
+    "right": 306,
+    "bottom": 312
+  },
+  {
+    "top": 319,
+    "left": 186,
+    "right": 231,
+    "bottom": 355.2
+  }
 ]

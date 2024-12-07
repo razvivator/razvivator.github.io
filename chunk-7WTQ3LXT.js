@@ -1,0 +1,1 @@
+function o(s,a,n){let e=n.value;return n.value=function(...t){if(!this.ngZone)throw new Error("'NgZone' class has not been provided in the target class");return this.ngZone.runOutsideAngular(()=>e.call(this,...t))},n}export{o as a};
